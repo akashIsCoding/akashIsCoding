@@ -1,5 +1,10 @@
 ### Hi there 👋
-⚡ I’m currently building https://chefsandhome.com
+- 🔭 I’m currently working on a new CRM tool 
+
+- 💬 Ask me about React or Firebase or some cooking tips!
+- 📫 How to reach me: atkare.akash@gmail.com
+- 😄 Pronouns: he/him
+-  Fun fact: I used to make short films and music videos back in college!
 <!--
 **akashIsCoding/akashIsCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
