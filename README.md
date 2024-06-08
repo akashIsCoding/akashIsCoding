@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a new CRM tool 
-
+- 🔭 I’m currently working on a building new CRM product 
 - 💬 Ask me about React or Firebase or some cooking tips!
 - 📫 How to reach me: atkare.akash@gmail.com
 - 😄 Pronouns: he/him
