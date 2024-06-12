@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a building new CRM product 
-- 💬 Ask me about React or Firebase or some cooking tips!
+- 💬 Ask me about React or Firebase 
 - 📫 How to reach me: atkare.akash@gmail.com
 - 😄 Pronouns: he/him
 -  Fun fact: I used to make short films and music videos back in college!
